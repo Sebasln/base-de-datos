@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(){
-	printf("Hola, git");
+	printf("Hola, git\n Sebas.");
 
 	return 0;
 }
